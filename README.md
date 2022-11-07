@@ -1,0 +1,1 @@
+# patika-proje-reverse-and-flatten
